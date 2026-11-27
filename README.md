@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-open-source-alternatives/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-21-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
 
 
 > Open-source alternatives to paid software. Curated, simple, and free to use - one line per entry.
@@ -24,6 +24,7 @@
 - [Alternative to Premiere / Camtasia](#alternative-to-premiere--camtasia)
 - [Alternative to Outlook](#alternative-to-outlook)
 - [Alternative to Visio / Lucidchart](#alternative-to-visio--lucidchart)
+- [Alternative to UptimeRobot](#alternative-to-uptimerobot)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -102,6 +103,11 @@
 | Tool | What it does |
 | --- | --- |
 | [diagrams.net](https://www.diagrams.net/) | Free flowcharts and diagrams online |
+
+## Alternative to UptimeRobot
+| Tool | What it does |
+| --- | --- |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Self-hosted website uptime and response-time monitoring with TLS and domain expiry alerts |
 
 ## Contributing
 
