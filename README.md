@@ -90,6 +90,7 @@
 
 | Tool | What it does |
 | --- | --- |
+| [CutVoke](https://github.com/frankShan001/CutVoke) | Local-first desktop video editor; humans and AI agents edit the same timeline |
 | [OBS Studio](https://obsproject.com/) | Record and stream video free |
 
 ## Alternative to Outlook
