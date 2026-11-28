@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/amardeeplakshkar/awesome-open-source-alternatives/pulls)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/entries-22-orange.svg)]()
+[![Entries](https://img.shields.io/badge/entries-23-orange.svg)]()
 
 
 > Open-source alternatives to paid software. Curated, simple, and free to use - one line per entry.
